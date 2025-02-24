@@ -1,4 +1,4 @@
-int resultat = 0;
-
-resultat = 5 + 3;
-printf("5 + 3 =  %d", resultat);
+double resultat = 0;
+    
+resultat = 5.0 / 2.0;
+printf ("5 / 2 = %lf", resultat);
